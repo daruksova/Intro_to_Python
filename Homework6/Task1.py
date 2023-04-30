@@ -7,6 +7,6 @@ def Readint():
     return N
 
 def Task1(N):
-    return int(N) + int(N + N) + int(N + N +N)
+    return int(N) + int(N + N) + int(N + N + N)
 
 print(Task1(Readint()))
